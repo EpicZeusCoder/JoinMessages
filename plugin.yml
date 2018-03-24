@@ -1,0 +1,4 @@
+namr: JoinMessages
+main: Join\Main
+description: Plugin créé par OnGooday
+api: [3.0.0-ALPHA11]
